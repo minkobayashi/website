@@ -11,6 +11,7 @@ tags:
   - exploration
   - cosmos
   - space
+  - First Star
 draft: false
 ---
 
