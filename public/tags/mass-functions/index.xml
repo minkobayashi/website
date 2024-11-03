@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mass Functions on Dr. Masato KOBAYASHI</title>
+    <link>http://localhost:1313/tags/mass-functions/</link>
+    <description>Recent content in Mass Functions on Dr. Masato KOBAYASHI</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Oct 2024 17:36:05 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mass-functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semi-analytic Theories</title>
+      <link>http://localhost:1313/posts/2024/the-great-beyond/</link>
+      <pubDate>Thu, 31 Oct 2024 17:36:05 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/the-great-beyond/</guid>
+      <description>&lt;h2 id=&#34;semi-analytic-theories-to-obtain-the-long-term-evolution-of-the-universe-and-establish-an-unified-theory&#34;&gt;Semi-analytic theories to obtain the long-term evolution of the Universe and establish an unified theory&lt;/h2&gt;&#xA;&lt;p&gt;While numerical simulations investigate the details of individual objects,&#xA;it is important to predict/explain the overall statistics to derive an unified paradigme for long-term evolution of the Universe.&#xA;Observations are also snapshots.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
