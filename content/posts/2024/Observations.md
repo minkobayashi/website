@@ -1,6 +1,6 @@
 ---
 title: "Observations"
-date: 2024-11-02T18:36:05+07:00
+date: 2024-11-01T18:36:05+07:00
 slug: /the-great-beyond/
 description: I conduct observations and observational data analysis to investigate the assembly of stars and galaxies.
 image: images/brent-cox-ydGRmobx5jA-unsplash.jpg

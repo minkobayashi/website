@@ -1,6 +1,6 @@
 ---
-title: "Numerical Simulations & Synthetic Observations"
-date: 2024-11-02T17:36:05+07:00
+title: "Semi-analytic Theories"
+date: 2024-10-31T17:36:05+07:00
 slug: /the-great-beyond/
 description: I constrcut semi-analytic theories to interpret observations and to derive a unified paradigm of molecular cloud evolution and star formation.
 image: images/brent-cox-ydGRmobx5jA-unsplash.jpg
