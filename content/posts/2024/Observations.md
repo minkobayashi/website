@@ -10,7 +10,7 @@ caption: An optical image from Hubble Space Telescope (modified from Kobayashi e
 categories:
   - Method
 tags:
-  - Gravitational lensing 
+  - Gravitational lensing
   - Galaxy-galaxy lensing
   - Shape deformation
   - Dark matter
