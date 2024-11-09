@@ -1,9 +1,13 @@
 +++
-title = "Application development"
+title = "Observations"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Observations are important tools for us to access information on physical conditions of various astronomical objects.
+Photons from the Universe have a wide frequency range, each of which traces different spatial/energy scales in the Universe.
+In addition, recent cosmic-ray and gravitational wave observations opened up a new research field "multi-messenger astronomy".
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I conducted an optical observation towards galaxy clusters by using Subaru Telescope on Mauna Kea in Hawaii to constrain the scenarios of galaxy formation and star formation in galaxies.
+I also closely collaborate with observers to reveal the mechanisms of molecular cloud evolution and subsequent star formation
+by comparing their observational results with my supercomputer simulations and semi-analytic theories.

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <title>Homes on Dr. Masato KOBAYASHI - an astrophysicist, a star former</title>
     <link>http://localhost:1313/home/</link>
-    <description>Recent content in Homes on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <description>Recent content in Homes on Dr. Masato KOBAYASHI - an astrophysicist, a star former</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/subheader/</guid>
-      <description>&lt;p&gt;Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you &lt;a href=&#34;http://localhost:1313/about&#34;&gt;measure&lt;/a&gt; yourself by the people who measure themselves by you. it only took me &lt;a href=&#34;http://localhost:1313/sidebar-right&#34;&gt;six days&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am Dr. Masato Kobayashi, a JSPS postdoctoral fellow from University of Cologne, Germany.&#xA;I am an astrophysicist investigating &lt;strong&gt;&amp;ldquo;star formation&amp;rdquo;&lt;/strong&gt; across space and time in the Universe, including the origin of our Solar system.&lt;/p&gt;&#xA;&lt;p&gt;I try to reveal the lifecycle of &lt;strong&gt;&amp;ldquo;molecular clouds&amp;rdquo;&lt;/strong&gt;. Molecular clouds are the formation site of stars and thus they control the star formation history.&#xA;I conduct supercomputer simulations, semi-analytic theories, and observations to answer these questions, with many international collaborative projects.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

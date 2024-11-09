@@ -1,19 +1,19 @@
 baseURL = "https://example.com/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Dr. Masato KOBAYASHI - an astrophysicist, a star former"
 theme = "hugo-initio"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    avatar = "images/guy.jpg"
+    name = "Dr. Masato KOBAYASHI"
+    description = "Astrophysicist (Star Former)"
+    email = "kobayashi@ph1.uni-koeln.de"
+    # phone = "+234 23 9873237"
+    address = "Zuelpicher Strasse 77, 50937, Cologne, Germany"
+    year = 2024
+    avatar = "images/DSC_4675.JPG"
     avatarclass = "circle"
     background = ""
-    banner = "images/bg_head.jpg"
+    banner = "images/DSC_4753.JPG"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
     author = "Sergey Pozhilov (GetTemplate.com)"
@@ -25,9 +25,9 @@ theme = "hugo-initio"
     showClients = true
 
     showFooterContact = true
-    showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterFollowMe = false
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <title>Dr. Masato KOBAYASHI - an astrophysicist, a star former</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <description>Recent content on Dr. Masato KOBAYASHI - an astrophysicist, a star former</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Download original template</title>
+      <title>Download my CV</title>
       <link>http://localhost:1313/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/downloads/download1/</guid>
-      <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My most updated CV is available here. It contains my education, work experiences, grant histories, talk records, and publication histories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
@@ -23,53 +23,39 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/mac.jpg&#34; alt=&#34;about&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;necessitatibus&#34;&gt;Necessitatibus&lt;/h3&gt;&#xA;&lt;p&gt;Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Vivamus Lacus Mauris</title>
+      <title>N/A</title>
       <link>http://localhost:1313/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/vivamus-lacus-mauris/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae. Adipisci ad natus deleniti.&lt;/p&gt;</description>
+      <description>&lt;p&gt;N/A&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/subheader/</guid>
-      <description>&lt;p&gt;Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you &lt;a href=&#34;http://localhost:1313/about&#34;&gt;measure&lt;/a&gt; yourself by the people who measure themselves by you. it only took me &lt;a href=&#34;http://localhost:1313/sidebar-right&#34;&gt;six days&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am Dr. Masato Kobayashi, a JSPS postdoctoral fellow from University of Cologne, Germany.&#xA;I am an astrophysicist investigating &lt;strong&gt;&amp;ldquo;star formation&amp;rdquo;&lt;/strong&gt; across space and time in the Universe, including the origin of our Solar system.&lt;/p&gt;&#xA;&lt;p&gt;I try to reveal the lifecycle of &lt;strong&gt;&amp;ldquo;molecular clouds&amp;rdquo;&lt;/strong&gt;. Molecular clouds are the formation site of stars and thus they control the star formation history.&#xA;I conduct supercomputer simulations, semi-analytic theories, and observations to answer these questions, with many international collaborative projects.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Application development</title>
+      <title>Observations</title>
       <link>http://localhost:1313/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service3/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Observations are important tools for us to access information on physical conditions of various astronomical objects.&#xA;Photons from the Universe have a wide frequency range, each of which traces different spatial/energy scales in the Universe.&#xA;In addition, recent cosmic-ray and gravitational wave observations opened up a new research field &amp;ldquo;multi-messenger astronomy&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Custom website design</title>
-      <link>http://localhost:1313/home/services/service1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Download HUGO template</title>
-      <link>http://localhost:1313/home/downloads/download2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download2/</guid>
-      <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SEO &amp; SEM services</title>
-      <link>http://localhost:1313/home/services/service4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service4/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wordpress integration</title>
+      <title>Semi-analytic Theories</title>
       <link>http://localhost:1313/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service2/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Semi-analytic theories are important tools to investigate various conditions in the Universe, while supercomputer simualtions require&#xA;significant computing time and cannot cover a full range of possible conditions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supercomputer Simulations</title>
+      <link>http://localhost:1313/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service1/</guid>
+      <description>&lt;p&gt;Supercomputer simulations are powerful tools to investigate what happened in the past in the Universe and what is happening at far distance in the Universe.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

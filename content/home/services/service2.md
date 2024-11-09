@@ -1,9 +1,13 @@
 +++
-title = "Wordpress integration"
+title = "Semi-analytic Theories"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Semi-analytic theories are important tools to investigate various conditions in the Universe, while supercomputer simualtions require 
+significant computing time and cannot cover a full range of possible conditions.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I developed a semi-analyticl theory that can calculate time evolution of molecular cloud mass functions.
+I also proposed a scenario of our Solar system formation, where protosolar system was embedded in a structure called filament
+and this filament was impacted by a shock wave from a nearby supernova.
+By comparing these with observations, we can constrain the evolutionary timescale of molecular clouds and the formation condition of our Solar system.

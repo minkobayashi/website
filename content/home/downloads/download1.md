@@ -1,7 +1,7 @@
 +++
-title = "Download original template"
-file = "http://www.gettemplate.com/downloads/initio.zip"
+title = "Download my CV"
+file = "/CV/CV_MasatoKobayashi_2024_web.pdf"
 weight = 1
 +++
 
-A simple, nice-looking **call to action box**. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.
+My most updated CV is available here. It contains my education, work experiences, grant histories, talk records, and publication histories.

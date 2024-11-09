@@ -1,9 +1,16 @@
 +++
-title = "Custom website design"
+title = "Supercomputer Simulations"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Supercomputer simulations are powerful tools to investigate what happened in the past in the Universe and what is happening at far distance in the Universe.
+<!--more-->
+Astronomical phenomena typically have timescales and spatial scales much longer/lager than human lifetime/size
+and thus it is important to numerically investigate temporal and spatial evolution of astronomical objects,
+with which we can interpret observational results and predict what observations will find.
+
+I have been conducting magnetohydrodynamics simulations to investigate the formation process of stars.
+I utilize Cray XC30 and XC50 from National Astronomical Observatory of Japan, and RAMSES, CHEOPS, and Odin from University of Cologne.
+
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
