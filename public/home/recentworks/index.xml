@@ -7,5 +7,19 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/home/recentworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Low-metallicity molecular cloud formation</title>
+      <link>http://localhost:1313/home/recentworks/6_lowmetalgmc_parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/6_lowmetalgmc_parallel/</guid>
+      <description>&lt;p&gt;Low-metal GMC&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Turbulent components in molecular clouds</title>
+      <link>http://localhost:1313/home/recentworks/5_gmcturbulencedecomposition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/5_gmcturbulencedecomposition/</guid>
+      <description>&lt;p&gt;Solenoidal v.s. Compressive&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

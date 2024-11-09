@@ -37,6 +37,27 @@
       <description>&lt;p&gt;I am Dr. Masato Kobayashi, a JSPS postdoctoral fellow from University of Cologne, Germany.&#xA;I am an astrophysicist investigating &lt;strong&gt;&amp;ldquo;star formation&amp;rdquo;&lt;/strong&gt; across space and time in the Universe, including the origin of our Solar system.&lt;/p&gt;&#xA;&lt;p&gt;I try to reveal the lifecycle of &lt;strong&gt;&amp;ldquo;molecular clouds&amp;rdquo;&lt;/strong&gt;. Molecular clouds are the formation site of stars and thus they control the star formation history.&#xA;I conduct supercomputer simulations, semi-analytic theories, and observations to answer these questions, with many international collaborative projects.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Dark matter in galaxy halos</title>
+      <link>http://localhost:1313/home/recentworks/1_galaxygalaxylensing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/1_galaxygalaxylensing/</guid>
+      <description>&lt;p&gt;Graviatioanl lensing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Low-metallicity molecular cloud formation</title>
+      <link>http://localhost:1313/home/recentworks/6_lowmetalgmc_parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/6_lowmetalgmc_parallel/</guid>
+      <description>&lt;p&gt;Low-metal GMC&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Molecular cloud mass functions and the lifetime of molecular clouds</title>
+      <link>http://localhost:1313/home/recentworks/2_gmcmf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/2_gmcmf/</guid>
+      <description>&lt;p&gt;Mass functions&#xA;lifetime&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Observations</title>
       <link>http://localhost:1313/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,6 +77,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service1/</guid>
       <description>&lt;p&gt;Supercomputer simulations are powerful tools to investigate what happened in the past in the Universe and what is happening at far distance in the Universe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thermal Instability</title>
+      <link>http://localhost:1313/home/recentworks/4_thermalinstability_criteria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/4_thermalinstability_criteria/</guid>
+      <description>&lt;p&gt;Resolution criteria&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Triggered star formation by cloud-cloud collisions</title>
+      <link>http://localhost:1313/home/recentworks/3_ccc_triggeredsf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/3_ccc_triggeredsf/</guid>
+      <description>&lt;p&gt;Star formation by cloud-cloud collisions&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Turbulent components in molecular clouds</title>
+      <link>http://localhost:1313/home/recentworks/5_gmcturbulencedecomposition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/5_gmcturbulencedecomposition/</guid>
+      <description>&lt;p&gt;Solenoidal v.s. Compressive&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

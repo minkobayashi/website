@@ -5,7 +5,7 @@ theme = "hugo-initio"
 
 [params]
     name = "Dr. Masato KOBAYASHI"
-    description = "Astrophysicist (Star Former)"
+    description = "Astrophysicist (Star Former) / University of Cologne, Germany"
     email = "kobayashi@ph1.uni-koeln.de"
     # phone = "+234 23 9873237"
     address = "Zuelpicher Strasse 77, 50937, Cologne, Germany"
@@ -22,7 +22,7 @@ theme = "hugo-initio"
     showServices = true
     showRecentWorks = true
     showDownloads = true
-    showClients = true
+    showClients = false
 
     showFooterContact = true
     showFooterFollowMe = false
@@ -33,10 +33,10 @@ theme = "hugo-initio"
     name = "home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "blog"
-    url = "/post/"
-    weight = 5
+#[[menu.main]]
+#    name = "blog"
+#    url = "/post/"
+#    weight = 5
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

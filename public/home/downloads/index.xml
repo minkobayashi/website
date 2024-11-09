@@ -12,7 +12,7 @@
       <link>http://localhost:1313/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/downloads/download1/</guid>
-      <description>&lt;p&gt;My most updated CV is available here.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My most updated CV is available here. It contains my education, work experiences, grant histories, talk records, and publication histories.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

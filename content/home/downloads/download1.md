@@ -1,6 +1,6 @@
 +++
 title = "Download my CV"
-file = "/CV/CV_MasatoKobayashi_2024_web.pdf"
+file = "../CV/CV_MasatoKobayashi_2024_web.pdf"
 weight = 1
 +++
 
