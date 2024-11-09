@@ -1,7 +1,7 @@
 baseURL = 'https://pehtheme-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'Dr. Masato KOBAYASHI'
-theme = 'pehtheme-hugo'
+theme = 'hugo-initio'
 
 paginate = '6' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
