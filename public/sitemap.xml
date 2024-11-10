@@ -27,9 +27,13 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/home/recentworks/1_galaxygalaxylensing/</loc>
+  </url><url>
     <loc>http://localhost:1313/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/recentworks/1_lowmetalgmc_parallel/</loc>
+    <loc>http://localhost:1313/home/recentworks/6_lowmetalgmc_parallel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/recentworks/2_gmcmf/</loc>
   </url><url>
     <loc>http://localhost:1313/home/services/service3/</loc>
   </url><url>
@@ -38,5 +42,11 @@
     <loc>http://localhost:1313/home/services/service1/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/recentworks/4_thermalinstability_criteria/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/recentworks/3_ccc_triggeredsf/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/recentworks/5_gmcturbulencedecomposition/</loc>
   </url>
 </urlset>

@@ -27,7 +27,7 @@
         "id": 2,
         "name": "Thermal instability",
         "image": "images/s1.jpg",
-        "url": "#",
+        "url": "/home/recentworks/4_ThermalInstability_Criteria",
         "items": [
             {
                 "name": "Web design",
@@ -43,7 +43,7 @@
         "id": 3,
         "name": "Triggered star formation by cloud-cloud collisions",
         "image": "images/s1.jpg",
-        "url": "#",
+        "url": "/home/recentworks/3_CCC_TriggeredSF",
         "items": [
             {
                 "name": "Web design",
@@ -57,9 +57,9 @@
     },
     {
         "id": 4,
-        "name": "Molecular cloud mass functions",
+        "name": "Molecular cloud mass functions and the lifetime of molecular clouds",
         "image": "images/s1.jpg",
-        "url": "#",
+        "url": "/home/recentworks/2_GMCMF",
         "items": [
             {
                 "name": "Web design",
@@ -75,7 +75,7 @@
         "id": 5,
         "name": "Dark matter in galaxy halos",
         "image": "images/s1.jpg",
-        "url": "#",
+        "url": "/home/recentworks/1_GalaxyGalaxyLensing",
         "items": [
             {
                 "name": "Web design",
