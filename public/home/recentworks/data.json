@@ -3,7 +3,7 @@
         "id": 0,
         "name": "Low-metallicity molecular cloud formation",
         "image": "images/CollidingFlow.png",
-        "url": "/home/recentworks/1_LowMetalGMC_Parallel",
+        "url": "/home/recentworks/6_LowMetalGMC_Parallel",
         "items": [
         ]
     },
@@ -11,7 +11,7 @@
         "id": 1,
         "name": "Turbulence in molecular clouds",
         "image": "images/s1.jpg",
-        "url": "/home/recentworks/2_GMCTurbulenceDecomposition",
+        "url": "/home/recentworks/5_GMCTurbulenceDecomposition",
         "items": [
             {
                 "name": "Web design",
