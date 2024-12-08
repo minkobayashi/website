@@ -3,88 +3,48 @@
         "id": 0,
         "name": "Low-metallicity molecular cloud formation",
         "image": "images/CollidingFlow.png",
-        "url": "./6_LowMetalGMC_Parallel",
+        "url": "/home/recentworks/LowMetalGMC_Parallel",
         "items": [
         ]
     },
     {
         "id": 1,
         "name": "Turbulence in molecular clouds",
-        "image": "images/s1.jpg",
+        "image": "images/CollidingFlow.png",
         "url": "/home/recentworks/5_GMCTurbulenceDecomposition",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            }
         ]
     },
     {
         "id": 2,
         "name": "Thermal instability",
-        "image": "images/s1.jpg",
+        "image": "images/CollidingFlow.png",
         "url": "/home/recentworks/4_ThermalInstability_Criteria",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
         ]
     },
     {
         "id": 3,
         "name": "Triggered star formation by cloud-cloud collisions",
-        "image": "images/s1.jpg",
+        "image": "images/CollidingFlow.png",
         "url": "/home/recentworks/3_CCC_TriggeredSF",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            }
         ]
     },
     {
         "id": 4,
         "name": "Molecular cloud mass functions and the lifetime of molecular clouds",
-        "image": "images/s1.jpg",
+        "image": "images/CollidingFlow.png",
         "url": "/home/recentworks/2_GMCMF",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
         ]
     },
     {
         "id": 5,
         "name": "Dark matter in galaxy halos",
-        "image": "images/s1.jpg",
+        "image": "images/CollidingFlow.png",
         "url": "/home/recentworks/1_GalaxyGalaxyLensing",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
         ]
     }
 ]
